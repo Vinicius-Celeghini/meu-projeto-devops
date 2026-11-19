@@ -1,1 +1,0 @@
-Projeto versionado com Git!
