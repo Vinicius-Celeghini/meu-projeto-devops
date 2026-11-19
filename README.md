@@ -9,3 +9,5 @@ Projeto construído no Bootcamp DevOps Matera 2026.
 
 ## Como rodar
 docker compose up -dProjeto versionado com Git!
+
+[![CI](https://github.com/Vinicius-Celeghini/meu-projeto-devops/actions/workflows/ci.yml/badge.svg)](https://github.com/Vinicius-Celeghini/meu-projeto-devops/actions/workflows/ci.yml)
